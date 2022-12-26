@@ -6,7 +6,7 @@ var project_list = [
     },
     {
         title: "GAS MS Excel Parser",
-        url: "https://github.com/cscsonka/Parsing-MS-Excel-file-with-Google-Apps-Script",
+        url: "https://cscsonka.github.io/parsing-ms-excel-file-with-google-apps-script",
         description: "Google Apps Script method that can process MS Excel files and return values in JSON format. It processes the xml structure of an Excel file and gets the necessery data without converting it into Google Spreadsheet."
     },
     {
