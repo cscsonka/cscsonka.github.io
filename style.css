@@ -62,7 +62,7 @@ body {
     padding: 30px 40px;
     box-sizing: border-box;
     margin: 20px auto 20px;
-    backdrop-filter: brightness(0.97) grayscale(0.2);
+    backdrop-filter: brightness(0.97) grayscale(0.1);
     width: 61.8%;
 }
 
