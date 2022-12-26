@@ -11,7 +11,7 @@ var project_list = [
     },
     {
         title: "Comment Generator",
-        url: "https://github.com/cscsonka",
+        url: "https://cscsonka.github.io/comment_generator",
         description: "This tool creates a multiline javascript comment from a character of your choice. You can set the desired size, spacing, and ink character that outlines the comment, and helps to structure your code with attention-grabbing words."
     }
 ];
