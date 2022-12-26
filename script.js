@@ -1,7 +1,7 @@
 var project_list = [
     {
         title: "Running Tracker",
-        url: "https://github.com",
+        url: "https://cscsonka.github.io/running-tracker",
         description: "A static website that can connect to your bluetooth chest strap, process your phone's location and accelerometer data. It displays heart rate, distance and step count on your phone during your running session."
     },
     {
